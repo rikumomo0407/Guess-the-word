@@ -38,6 +38,8 @@ h<span style="color: green">a</span>i'r'
 
 <span style="color: green">a</span>
 
+$`\textcolor{red}{\text{your text}}`$
+
 
 ***
 
