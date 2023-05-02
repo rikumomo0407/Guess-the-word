@@ -5,7 +5,7 @@
 int main(void){
 	int i = 0, num;
 	FILE *fp; // FILE型構造体
-	char fname[] = "english.txt";
+	char fname[] = "data.txt";
 	char word[N];
 	num = rand()%RANGE;
 	fp = fopen(fname, "r"); // ファイルを開く。失敗するとNULLを返す。
