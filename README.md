@@ -6,3 +6,7 @@ This is the game of guessing English words in terminal with C language.
 
 ## 遊び方
 
+1. ランダムで解答(英単語)が決められ、その英単語の文字数が教えられます。
+
+
+
