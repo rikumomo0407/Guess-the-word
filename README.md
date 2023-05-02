@@ -13,6 +13,7 @@ This is the game of guessing English words in terminal with C language.
 (ヒント:4文字)
 ```
 
+
 2.入力欄が表示されるので、解答の文字数だけアルファベットを入力します。(ただし必ずしも単語である必要はありません。)
 
 ```
