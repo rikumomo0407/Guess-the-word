@@ -25,6 +25,8 @@ This is the game of guessing English words in terminal with C language.
 1回目>>>
 ```
 
+***
+
 3.入力した文字が正解かどうか判定されます。正解ならクリアとなりゲーム終了。不正解の場合は、入力した文字が解答内に存在する文字ならピンク、解答内に存在して位置も一致した場合は黄色で表示されます。
 
 ```
@@ -33,6 +35,8 @@ This is the game of guessing English words in terminal with C language.
 1回目>>>hair
 h"a"i'r'
 ```
+
+***
 
 4.解答できるのは5回までです。判定された文字の色から正解の英単語を推理して当てましょう。
 
@@ -45,3 +49,5 @@ h"a"i'r'
 'r'"a"c"e"
 3回目>>>
 ```
+
+***
