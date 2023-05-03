@@ -19,8 +19,8 @@ This is the game of guessing English words in terminal with C language.
 
 2.入力欄が表示されるので、解答の文字数だけアルファベットを入力します。(ただし必ずしも単語である必要はありません。)
 
-<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/flowchart.png">
-  <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/flowchart.png" />
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
 </a>
 
 ```
