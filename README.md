@@ -33,7 +33,7 @@ This is the game of guessing English words in terminal with C language.
 /////単語当てゲーム/////
 (ヒント:4文字)
 1回目>>>hair
-h<span style="color: green">a</span>i'r'
+hai'r'
 ```
 
 ***
