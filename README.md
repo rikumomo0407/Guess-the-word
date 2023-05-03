@@ -10,10 +10,9 @@ This is the game of guessing English words in terminal with C language.
 
 1.ランダムで解答(英単語)が決められます。また、ヒントとしてその英単語の文字数が教えられます。
 
-```
-/////単語当てゲーム/////
-(ヒント:4文字)
-```
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
+</a>
 
 ***
 
@@ -33,6 +32,10 @@ This is the game of guessing English words in terminal with C language.
 
 3.入力した文字が正解かどうか判定されます。正解ならクリアとなりゲーム終了。不正解の場合は、入力した文字が解答内に存在する文字ならピンク、解答内に存在して位置も一致した場合は黄色で表示されます。
 
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
+</a>
+
 ```
 /////単語当てゲーム/////
 (ヒント:4文字)
@@ -43,6 +46,10 @@ hai'r'
 ***
 
 4.解答できるのは5回までです。判定された文字の色から正解の英単語を推理して当てましょう。
+
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
+</a>
 
 ```
 /////単語当てゲーム/////
