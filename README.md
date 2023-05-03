@@ -11,8 +11,8 @@ This is the game of guessing English words in terminal with C language.
 1.ランダムで解答(英単語)が決められます。また、ヒントとしてその英単語の文字数が教えられます。
 
 main.c
-<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
-  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/F84D4B42-658F-4B74-8137-F684903B1FB3">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/F84D4B42-658F-4B74-8137-F684903B1FB3" />
 </a>
 
 ***
