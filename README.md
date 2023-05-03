@@ -19,15 +19,9 @@ main.c
 
 2.入力欄が表示されるので、解答の文字数だけアルファベットを入力します。(ただし必ずしも単語である必要はありません。)
 
-<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
-  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/CAF4FD73-2D6E-496A-BBAA-4BE85FD3FCA3.jpeg">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/CAF4FD73-2D6E-496A-BBAA-4BE85FD3FCA3.jpeg" />
 </a>
-
-```
-/////単語当てゲーム/////
-(ヒント:4文字)
-1回目>>>
-```
 
 ***
 
