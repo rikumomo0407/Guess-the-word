@@ -33,8 +33,8 @@ main.c
 
 3.入力した文字が正解かどうか判定されます。正解ならクリアとなりゲーム終了。不正解の場合は、入力した文字が解答内に存在する文字ならピンク、解答内に存在して位置も一致した場合は黄色で表示されます。
 
-<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg">
-  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/IMG_9006.jpeg" />
+<a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/0BED1822-739F-4AE9-A818-51246554B5CE.jpeg">
+  <img width="100%" src="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/0BED1822-739F-4AE9-A818-51246554B5CE.jpeg" />
 </a>
 
 ```
