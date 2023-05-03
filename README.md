@@ -36,11 +36,6 @@ This is the game of guessing English words in terminal with C language.
 h<span style="color: green">a</span>i'r'
 ```
 
-<span style="color: green">a</span>
-
-$`\textcolor{red}{\text{your text}}`$
-
-
 ***
 
 4.解答できるのは5回までです。判定された文字の色から正解の英単語を推理して当てましょう。
