@@ -34,7 +34,7 @@ main.c
 
 ***
 
-4.解答できるのは5回までです。判定された文字の色から正解の英単語を推理して当てましょう。
+4.解答できるのは5回までです。判定された文字の色から正解の英単語を導きましょう。
 
 main.c
 <a href="https://github.com/rikumomo0407/Guess-the-word//raw/main/Images/0EB88E9E-CA93-4218-8CDD-44464CD2F8FB.jpeg">
